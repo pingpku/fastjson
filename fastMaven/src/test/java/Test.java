@@ -6,7 +6,7 @@
  * To change this template use File | Settings | File Templates.
  */
 public class Test {
-    public static void main(String[] args){
+    public static void main(String args[]){
         System.out.println("test git");
     }
 
